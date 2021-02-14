@@ -1,0 +1,25 @@
+DIV{
+          width:50%; background: red; float:left; height: 90px;"
+        }
+
+        .dv_blue{
+          width:50%; background: #6495ED; float: right; height: 90px;
+        }
+
+        #dv_black{
+          width:100%; background: black;
+          height: 200px;
+        }
+
+body{
+        padding: 15px;
+      }
+      table, td, th{
+        border: solid 1px;
+        width: 100%;
+        padding: 5px;
+      } 
+      img{
+        height: 200px;
+
+        

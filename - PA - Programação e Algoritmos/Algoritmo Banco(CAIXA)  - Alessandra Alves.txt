@@ -1,0 +1,11 @@
+Programação e algoritmo
+Sequencia de instruções 
+
+Você preisa sacar dinheiro no banco (CAIXA). Organize a lista seguinte para atingir esse objetivo:
+
+*entrar na fila
+*aguardar a vez
+*entregar o cartão ao caixa
+*informar o valor a retirar e digitar a senha
+*pegar o comprovante do saque, cartão e dinheiro
+*sair do banco

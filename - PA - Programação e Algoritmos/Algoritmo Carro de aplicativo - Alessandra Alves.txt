@@ -1,0 +1,15 @@
+Progamação e Algoritmo
+Sequencia de instruções 
+
+Você está atrasado par a aula no Camargo Aranha. Para tentae chegar no horário, você decide usar um transporte por aplicativo. 
+Indique a sequencia de instruções de modo que seja possível você chegar até sua sal. 
+
+*acessar aplicativo
+*informar o destino desejado
+*confirmar o serviço
+*pagar o motorista
+*esperar o carro
+*entrar no carro 
+*sair do carro
+*entrar no prédio do Camargo Aranha
+*encaminhar-se à sala de aula 

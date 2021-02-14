@@ -1,0 +1,12 @@
+Programação e Algoritmo
+Sequência de instruções
+
+	PLACAS
+
+*Km 1 
+*Km 2
+*Obras
+*Curva perigosa a 200m 
+*Curva perigosa 
+*Km 5
+*Escola

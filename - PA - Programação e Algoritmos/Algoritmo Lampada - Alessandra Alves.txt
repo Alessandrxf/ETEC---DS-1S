@@ -1,0 +1,11 @@
+Desenvolver um algoritmo com os passos para trocar uma lâmpada
+
+*comprar lampada
+*retirar a lampada da embalagem
+*pegar uma escada
+*subir na escada
+*desrosquear(retirar) a lampada queimada do bucal 
+*descer da escada
+*pegar a lampada nova
+*rosquear(colocar) a nova lampada no bucal  
+*testar a lampada
